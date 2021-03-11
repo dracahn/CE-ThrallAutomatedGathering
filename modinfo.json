@@ -1,16 +1,16 @@
 {
-	"name": "AutomatedThralls",
-	"description": "",
-	"changeNote": "",
-	"author": "",
-	"authorUrl": "",
-	"versionMajor": 1,
-	"versionMinor": 0,
+	"name": "Thrall Automated Gathering",
+	"description": "Thrall Automated Gathering is a mod designed to automate the process of collecting resources.  While your thralls spend all their time standing around, now they can be useful while you're AFK.  Using the Feat provided to create the HuntingTable, add thralls and some tools, and let your thralls get to work hunting some animals while you're afk.\n\nAdd a Warrior or Archer thrall to the workbench to increase the crafting queue up to 5 (close and re-open bench to update).  Use the recipes to find the things you want to hunt and what tools to harvest them with.  Set your thralls loose and reap the rwards.  Better teir tools yeild better results.\n\nTODO:\n- Add a Resource Collection bench for automating resource collection (sone, iron, etc.)\n- Automated processing (cooking, smelting, etc.) via bench upgrades\n- Crate Ways to mark the benches working/crafting without opening them (like how you see a smelter running)\n- Update Icons to use more than the vanilla game assets so they're more descriptive\n- Update bench models to be something unique.\n\nAll Feats, Items, Recipes, etc. start with TAG to help categorize them.\nhttps://github.com/dracahn/CE-ThrallAutomatedGathering",
+	"changeNote": "BETA - no changes and there was nothing before this",
+	"author": "dracahn",
+	"authorUrl": "https://github.com/dracahn",
+	"versionMajor": 0,
+	"versionMinor": 1,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
-	"steamVisibility": 2,
-	"folderName": "AutomatedThralls",
-	"revisionNumber": 0,
-	"snapshotId": 0
+	"steamVisibility": 0,
+	"folderName": "ThrallAutomatedGathering",
+	"revisionNumber": 269506,
+	"snapshotId": 27677
 }
